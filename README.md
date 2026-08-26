@@ -322,5 +322,7 @@ ssh root@EVE_IP "chown -R www-data:www-data /opt/unetlab/labs/"
 
 > 🎓 Lab réalisé dans un cadre académique/professionnel — Infrastructure émulée sous EVE-NG.  
 > ⚠️ À des fins éducatives uniquement.
+> Auteur: Aliou Barry L2 Informatique
+> "A l'ecole on ne t'apprends pas ça cest a toi de monté en competences et d'avoir un curiosité intello!!!!!!"
 
 ![MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
